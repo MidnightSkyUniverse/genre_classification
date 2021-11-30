@@ -1,0 +1,31 @@
+{
+    "os": "Linux-5.4.0-89-generic-x86_64-with-glibc2.10",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-11-30T15:31:25.108688",
+    "startedAt": "2021-11-30T15:31:23.747483",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises",
+        "commit": "390b2c24e09b5d07cfa52a55f43d7065fc514ffe"
+    },
+    "email": "midnightskyuniverse@yahoo.com",
+    "root": "/home/admin/mlops/nd0821-c2-build-model-workflow-exercises",
+    "host": "server594203",
+    "username": "admin",
+    "executable": "/home/admin/miniconda3/envs/mlflow-e2975a225b8a8f14b856bac37d3e4a4aa76a4871/bin/python"
+}

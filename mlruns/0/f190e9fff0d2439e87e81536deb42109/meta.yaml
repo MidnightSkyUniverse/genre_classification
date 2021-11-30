@@ -1,0 +1,15 @@
+artifact_uri: file:///home/admin/mlops/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/f190e9fff0d2439e87e81536deb42109/artifacts
+end_time: 1638286336908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f190e9fff0d2439e87e81536deb42109
+run_uuid: f190e9fff0d2439e87e81536deb42109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638286327358
+status: 4
+tags: []
+user_id: admin
